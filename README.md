@@ -7,4 +7,10 @@ if operador == "adicionar":
 return n1+n2
 elif operador == "subtrair":
 return n1-n2
+elif operador == "multiplicar":
+return n1*n2
+elif == "dividir":
+ruturn n1/n2
+else:
+return "Operação inválida!"
 
