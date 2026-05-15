@@ -5,4 +5,6 @@ operador = input(print("Voçê deseja adicionar, subtrair, multiplicar ou dividi
 def soma(n1,n2,operador):
 if operador == "adicionar":
 return n1+n2
-elif
+elif operador == "subtrair":
+return n1-n2
+
